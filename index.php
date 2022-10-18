@@ -15,7 +15,7 @@
     <div class="main">
         <div class="texto"><p>Descubra já as características de seu signo a partir de sua data de nascimento:</p>
         <input type="date" name="date" id="date">
-        <button><a href="result.php">Enviar</a></button><br>
+        <button><a href="result.html">Enviar</a></button><br>
     </div>
     <div class="imagem">
         <img src="https://i0.wp.com/portaledicase.com/wp-content/uploads/2022/09/astrologia-2.jpg"><img>
